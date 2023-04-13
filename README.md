@@ -2,6 +2,18 @@
 
 This is a collection of notebooks and data, which will be added to throughout the term.
 
+## Notebooks
+
+### Week 1
+
+* Explore data on birth rates in the US: [Birth Data Exploration.ipynb](notebooks/Birth%20Data%20Exploration.ipynb)
+* Start our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
+
+### Week 2
+
+* Wrap up our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling%20-%20Wrap%20Up.ipynb)
+* Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
+
 ## Data Provenance
 
 ### Exploring births in the US
@@ -22,7 +34,7 @@ wget -qO ../data/US_births_2000-2014_SSA.csv https://raw.githubusercontent.com/f
 We will use the [Gaia DR3 data release](https://gea.esac.esa.int/archive/) to explore the solar neighborhood. The data is available from the Gaia Archive. We will use the following query to get the data:
 
 ```sql
-SELECT TOP 300000 phot_g_mean_mag+5*log10(parallax)-10 AS mg, bp_rp, parallax FROM gaiaedr3.gaia_source
+SELECT TOP 300000 phot_g_mean_mag+5*log10(parallax)-10 AS mg, bp_rp, parallax FROM gaiadr3.gaia_source
 WHERE parallax_over_error > 10
 AND parallax > 10
 AND phot_g_mean_flux_over_error>50
