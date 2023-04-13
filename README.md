@@ -11,8 +11,8 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 ### Week 2
 
-* Wrap up our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling%20-%20Wrap%20Up.ipynb)
-* Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
+* Wrap up our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
+* Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
 
 ## Data Provenance
 
