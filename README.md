@@ -14,6 +14,12 @@ This is a collection of notebooks and data, which will be added to throughout th
 * Wrap up our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
 * Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
 
+### Week 3
+
+* Wrap up [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
+* Recall the Boltzmann distribution, use Ising model to understand the behavior of a ferromagnet at finite temperature: [Boltzmann and Ising (and some Metropolis).ipynb](notebooks/Boltzmann%20and%20Ising%20(and%20some%20Metropolis).ipynb)
+
+
 ## Data Provenance
 
 ### Exploring births in the US
