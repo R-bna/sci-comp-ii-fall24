@@ -20,6 +20,10 @@ This is a collection of notebooks and data, which will be added to throughout th
 * Recall the Boltzmann distribution, use Ising model to understand the behavior of a ferromagnet at finite temperature: [Boltzmann and Ising (and some Metropolis).ipynb](notebooks/Boltzmann%20and%20Ising%20(and%20some%20Metropolis).ipynb)
 * We made a quick-and-dirty observational HR diagram from our Gaia data set [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
 
+### Week 4
+
+* Introduce JAX and NumPyro for probabilistic model building and inference: [Intro to NumPyro.ipynb](notebooks/Intro%20to%20NumPyro.ipynb)
+
 ## Data Provenance
 
 ### Exploring births in the US
