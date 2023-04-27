@@ -23,6 +23,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 ### Week 4
 
 * Introduce JAX and NumPyro for probabilistic model building and inference: [Intro to NumPyro.ipynb](notebooks/Intro%20to%20NumPyro.ipynb)
+* Employ a mixture model in NumPyro to account for outliers in linear regression: [Modeling Outliers w NumPyro.ipynb](notebooks/Modeling%20Outliers%20w%20NumPyro.ipynb).
 
 ## Data Provenance
 
