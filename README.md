@@ -27,7 +27,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 ### Week 5
 
-* Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii.
+* Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii; [CO2 w NumPyro.ipynb](notebooks/CO2%20w%20NumPyro.ipynb).
 
 ## Data Provenance
 
