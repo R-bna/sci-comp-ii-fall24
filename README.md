@@ -27,7 +27,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 ### Week 5
 
-* Build a sequentially more complex model with `NumPyro` to make inferences from CO$_2$ concentrations in Mauna Loa, Hawaii.
+* Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii.
 
 ## Data Provenance
 
@@ -69,9 +69,9 @@ This data accompanies [Hogg, Bovy, and Lang (2010)](https://arxiv.org/abs/1008.4
 !wget -o ../data/data_yerr.dat https://raw.githubusercontent.com/davidwhogg/DataAnalysisRecipes/master/straightline/src/data_yerr.dat
 ```
 
-### CO$_2$ Concentrations in Mauna Loa, Hawaii
+### CO<sub>2</sub> Concentrations in Mauna Loa, Hawaii
 
-Monthy-averaged CO$_2$ concentrations measured in Mauna Loa, Hawaii, hosted by the NOAA:
+Monthy-averaged CO<sub>2</sub> concentrations measured in Mauna Loa, Hawaii, hosted by the NOAA:
 
 ```bash
 !wget -q ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt -O ../data/co2_mm_mlo.txt
