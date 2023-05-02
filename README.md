@@ -25,6 +25,10 @@ This is a collection of notebooks and data, which will be added to throughout th
 * Introduce JAX and NumPyro for probabilistic model building and inference: [Intro to NumPyro.ipynb](notebooks/Intro%20to%20NumPyro.ipynb)
 * Employ a mixture model in NumPyro to account for outliers in linear regression: [Modeling Outliers w NumPyro.ipynb](notebooks/Modeling%20Outliers%20w%20NumPyro.ipynb).
 
+### Week 5
+
+* Build a sequentially more complex model with `NumPyro` to make inferences from CO$_2$ concentrations in Mauna Loa, Hawaii.
+
 ## Data Provenance
 
 ### Exploring births in the US
@@ -63,4 +67,12 @@ This data accompanies [Hogg, Bovy, and Lang (2010)](https://arxiv.org/abs/1008.4
 
 ```bash
 !wget -o ../data/data_yerr.dat https://raw.githubusercontent.com/davidwhogg/DataAnalysisRecipes/master/straightline/src/data_yerr.dat
+```
+
+### CO$_2$ Concentrations in Mauna Loa, Hawaii
+
+Monthy-averaged CO$_2$ concentrations measured in Mauna Loa, Hawaii, hosted by the NOAA:
+
+```bash
+!wget -q ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt -O ../data/co2_mm_mlo.txt
 ```
