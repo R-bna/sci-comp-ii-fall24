@@ -27,9 +27,13 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 ### Week 5
 
-* Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii; [CO2 w NumPyro.ipynb](notebooks/CO2%20w%20NumPyro.ipynb).
+* Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii: [CO2 w NumPyro.ipynb](notebooks/CO2%20w%20NumPyro.ipynb).
 * Introduce concepts and vocabulary for machine learning: [Intro to Machine Learning (w Gaia).ipynb](notebooks/Intro%20to%20Machine%20Learning%20(w%20Gaia).ipynb)
 * Introduce logistic regression: [Logistic Regression.ipynb](notebooks/Logistic%20Regression.ipynb)
+
+### Week 6
+
+* Build and train a logistic regression classifier to identify quasars in SDSS observations: [Logistic Regression w SDSS.ipynb](notebooks/Logistic%20Regression%20w%20SDSS.ipynb)
 
 ## Data Provenance
 
