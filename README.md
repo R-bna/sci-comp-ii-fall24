@@ -86,3 +86,24 @@ To introduce logistic regression we make use of some data used by Jordi Warmenho
 !wget https://raw.githubusercontent.com/JWarmenhoven/Coursera-Machine-Learning/master/notebooks/data/ex2data1.txt -O ../data/ex2data1.txt
 !wget https://raw.githubusercontent.com/JWarmenhoven/Coursera-Machine-Learning/master/notebooks/data/ex2data2.txt -O ../data/ex2data2.txt
 ```
+
+### SDSS Quasars
+
+This is data collected by the Sloan Digital Sky Survey (SDSS) relating to quasars. The catalogs we'll be using are part of [PSU's astrostatistics data sets](https://astrostatistics.psu.edu/datasets/index.html).  We need three separate files, separated by spectroscopically confirmed classifications.
+
+Spectroscopically confirmed stars:
+```bash
+!wget -q --no-check-certificate -O ../data/SDSS_stars.csv https://astrostatistics.psu.edu/MSMA/datasets/SDSS_stars.csv
+```
+
+white dwarfs:
+```bash
+!wget -q --no-check-certificate -O ../data/SDSS_wd.csv https://astrostatistics.psu.edu/MSMA/datasets/SDSS_wd.csv
+```
+
+and quasars:
+```bash
+!wget -q --no-check-certificate -O ../data/SDSS_quasar.dat https://astrostatistics.psu.edu/datasets/SDSS_quasar.dat
+```
+
+More info on the dataset can be found [here](https://astrostatistics.psu.edu/datasets/SDSS_quasar.html).
