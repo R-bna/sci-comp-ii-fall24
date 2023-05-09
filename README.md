@@ -28,6 +28,8 @@ This is a collection of notebooks and data, which will be added to throughout th
 ### Week 5
 
 * Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii; [CO2 w NumPyro.ipynb](notebooks/CO2%20w%20NumPyro.ipynb).
+* Introduce concepts and vocabulary for machine learning: [Intro to Machine Learning (w Gaia).ipynb](notebooks/Intro%20to%20Machine%20Learning%20(w%20Gaia).ipynb)
+* Introduce logistic regression: [Logistic Regression.ipynb](notebooks/Logistic%20Regression.ipynb)
 
 ## Data Provenance
 
@@ -75,4 +77,12 @@ Monthy-averaged CO<sub>2</sub> concentrations measured in Mauna Loa, Hawaii, hos
 
 ```bash
 !wget -q ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt -O ../data/co2_mm_mlo.txt
+```
+
+### Logistic Regression Synthetic Data
+
+To introduce logistic regression we make use of some data used by Jordi Warmenhoven in their [Coursera Machine Learning course](https://github.com/JWarmenhoven/Coursera-Machine-Learning). 
+```bash
+!wget https://raw.githubusercontent.com/JWarmenhoven/Coursera-Machine-Learning/master/notebooks/data/ex2data1.txt -O ../data/ex2data1.txt
+!wget https://raw.githubusercontent.com/JWarmenhoven/Coursera-Machine-Learning/master/notebooks/data/ex2data2.txt -O ../data/ex2data2.txt
 ```
