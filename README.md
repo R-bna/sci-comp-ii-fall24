@@ -34,6 +34,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 ### Week 6
 
 * Build and train a logistic regression classifier to identify quasars in SDSS observations: [Logistic Regression w SDSS.ipynb](notebooks/Logistic%20Regression%20w%20SDSS.ipynb)
+* Extend our use of logistic regression to handle more than two classes: [Multiclass Classification.ipynb](notebooks/Multiclass%20Classification.ipynb)
 
 ## Data Provenance
 
