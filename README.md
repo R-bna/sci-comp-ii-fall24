@@ -41,6 +41,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 * Wrap up our multi-class classification work from Week 6
 * Introduce neural networks: [Intro to Neural Networks.ipynb](notebooks/Intro%20to%20Neural%20Networks.ipynb)
 * Introduce `Flax` and use a dense neural network layer to perform linear regression: [Intro%20to%20Flax.ipynb](notebooks/Intro%20to%20Flax.ipynb)
+* Use `Flax` to construct a dense neural network for classifying handwritten digits: [Dense Neural Network on MNIST Digits.ipynb](notebooks/Dense%20Neural%20Network%20on%20MNIST%20Digits.ipynb)
 
 ## Data Provenance
 
