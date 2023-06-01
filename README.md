@@ -43,6 +43,16 @@ This is a collection of notebooks and data, which will be added to throughout th
 * Introduce `Flax` and use a dense neural network layer to perform linear regression: [Intro%20to%20Flax.ipynb](notebooks/Intro%20to%20Flax.ipynb)
 * Use `Flax` to construct a dense neural network for classifying handwritten digits: [Dense Neural Network on MNIST Digits.ipynb](notebooks/Dense%20Neural%20Network%20on%20MNIST%20Digits.ipynb)
 
+### Week 8
+
+* Dense neural network classifier on M4: [](notebooks/Dense%20Neural%20Network%20Classifier%20for%20M4.ipynb)
+* Intro to CNNs: [Intro%20to%20CNNs.ipynb](notebooks/Intro%20to%20CNNs.ipynb)
+
+### Week 9
+
+* Volcanoes on Venus: [VenusVolcanoes.ipynb](notebooks/VenusVolcanoes.ipynb)
+
+
 ## Data Provenance
 
 ### Exploring births in the US
