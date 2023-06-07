@@ -45,13 +45,18 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 ### Week 8
 
-* Dense neural network classifier on M4: [](notebooks/Dense%20Neural%20Network%20Classifier%20for%20M4.ipynb)
-* Intro to CNNs: [Intro%20to%20CNNs.ipynb](notebooks/Intro%20to%20CNNs.ipynb)
+* Dense neural network classifier on M4: [Dense Neural Network Classifier for M4.ipynb](notebooks/Dense%20Neural%20Network%20Classifier%20for%20M4.ipynb)
+* Intro to CNNs: [Intro to CNNs.ipynb](notebooks/Intro%20to%20CNNs.ipynb)
 
 ### Week 9
 
 * Volcanoes on Venus: [VenusVolcanoes.ipynb](notebooks/VenusVolcanoes.ipynb)
+* Intro to Signal Processing: [Signal Processing.ipynb](notebooks/Signal%20Processing.ipynb)
 
+### Week 10
+
+* Filters, Welch Method and Pulsars: [Filters, Welch method, and Pulsars.ipynb](notebooks/Filters%2C%20Welch%20method%2C%20and%20Pulsars.ipynb)
+* Notch filters, Gaussian noise, and LIGO data: [Notch filters, Gaussian noise, and LIGO data.ipynb](notebooks/Notch%20filters%2C%20Gaussian%20noise%2C%20and%20LIGO%20data.ipynb)
 
 ## Data Provenance
 
