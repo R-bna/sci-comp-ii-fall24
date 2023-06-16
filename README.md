@@ -40,7 +40,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 * Wrap up our multi-class classification work from Week 6
 * Introduce neural networks: [Intro to Neural Networks.ipynb](notebooks/Intro%20to%20Neural%20Networks.ipynb)
-* Introduce `Flax` and use a dense neural network layer to perform linear regression: [Intro%20to%20Flax.ipynb](notebooks/Intro%20to%20Flax.ipynb)
+* Introduce `Flax` and use a dense neural network layer to perform linear regression: [Intro to Flax.ipynb](notebooks/Intro%20to%20Flax.ipynb)
 * Use `Flax` to construct a dense neural network for classifying handwritten digits: [Dense Neural Network on MNIST Digits.ipynb](notebooks/Dense%20Neural%20Network%20on%20MNIST%20Digits.ipynb)
 
 ### Week 8
@@ -57,6 +57,7 @@ This is a collection of notebooks and data, which will be added to throughout th
 
 * Filters, Welch Method and Pulsars: [Filters, Welch method, and Pulsars.ipynb](notebooks/Filters%2C%20Welch%20method%2C%20and%20Pulsars.ipynb)
 * Notch filters, Gaussian noise, and LIGO data: [Notch filters, Gaussian noise, and LIGO data.ipynb](notebooks/Notch%20filters%2C%20Gaussian%20noise%2C%20and%20LIGO%20data.ipynb)
+* Inferring black hole properties from gravitational wave observations: [Calculating a Posterior Probability Density Function.ipynb](notebooks/Calculating%20a%20Posterior%20Probability%20Density%20Function.ipynb)
 
 ## Data Provenance
 
