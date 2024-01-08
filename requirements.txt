@@ -1,30 +1,88 @@
-appnope @ file:///Users/builder/ci_310/appnope_1642500616005/work
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-dm-tree @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1fp7e2h87y/croot/dm-tree_1671027438289/work
-exceptiongroup @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0503uicloe/croot/exceptiongroup_1668714336719/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-ipython @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_05skbxaflp/croot/ipython_1694181365614/work
-jax @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_94ejrodz1d/croot/jax_1698071574140/work
-jaxlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_13ozjw0zke/croot/jaxlib_1697733701516/work/dist/jaxlib-0.4.16.dev20231019-cp310-cp310-macosx_10_14_x86_64.whl#sha256=696ea7664f9e728a2ce3197333517e5669ebfce9d4a30fb7b52a970476f385e2
-jedi @ file:///opt/concourse/worker/volumes/live/18b71546-5bde-4add-72d1-7d16b76f0f7a/volume/jedi_1644315243726/work
-matplotlib-inline @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9ddl71oqte/croots/recipe/matplotlib-inline_1662014471815/work
-mkl-fft @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af8wl3mjfu/croot/mkl_fft_1695058185839/work
-mkl-random @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0fq2s894lk/croot/mkl_random_1695059822529/work
-mkl-service==2.4.0
-ml-dtypes @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_23h8653a38/croot/ml_dtypes_1702691028749/work
-numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_97k4h5q73m/croot/numpy_and_numpy_base_1704311708477/work/dist/numpy-1.26.3-cp310-cp310-macosx_10_9_x86_64.whl#sha256=9d4230f09aa6cd18b645548b55fa74cb611df850cd99d39a1b636402e018c785
-opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
-parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-prompt-toolkit @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4d8kk9w3ed/croot/prompt-toolkit_1704404354789/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-Pygments @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cflayrfqsi/croot/pygments_1684279981084/work
-scipy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7e16tat7za/croot/scipy_1701295051536/work/dist/scipy-1.11.4-cp310-cp310-macosx_10_9_x86_64.whl#sha256=a415a493bac505f411376572807c781484b5bf03a9fce161187ff325dc73f8ac
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0dtilxc0bw/croot/traitlets_1671143889152/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+absl-py
+appnope
+arviz
+astropy
+asttokens
+backcall
+cached-property
+chex
+clu
+comm
+contextlib2
+contourpy
+cycler
+daft
+debugpy
+decorator
+dm-tree
+etils
+executing
+flax
+fonttools
+h5netcdf
+h5py
+importlib-metadata
+importlib-resources
+ipykernel
+ipython
+ipywidgets
+jax
+jaxlib
+jedi
+joblib
+jupyter_client
+jupyter_core
+jupyterlab-widgets
+kiwisolver
+markdown-it-py
+matplotlib
+matplotlib-inline
+mdurl
+ml-collections
+ml-dtypes
+msgpack
+multipledispatch
+nest-asyncio
+numpy
+numpyro
+opt-einsum
+optax
+orbax-checkpoint
+packaging
+pandas
+parso
+pexpect
+pickleshare
+Pillow
+platformdirs
+prompt-toolkit
+psutil
+ptyprocess
+pure-eval
+pyerfa
+Pygments
+pyparsing
+python-dateutil
+pytz
+PyYAML
+pyzmq
+rich
+scikit-learn
+scipy
+seaborn
+six
+stack-data
+tensorstore
+threadpoolctl
+toolz
+tornado
+tqdm
+traitlets
+typing_extensions
+tzdata
+wcwidth
+widgetsnbextension
+wrapt
+xarray
+xarray-einstats
+zipp
