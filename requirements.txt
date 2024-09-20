@@ -1,6 +1,7 @@
 absl-py
 appnope
 arviz
+astroml
 astropy
 asttokens
 backcall

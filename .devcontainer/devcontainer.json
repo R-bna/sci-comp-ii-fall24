@@ -1,5 +1,10 @@
 {
   "image": "mcr.microsoft.com/devcontainers/python:dev-3.10-bullseye",
+  "features": {
+    "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+        "packages": "libhdf5-dev"
+    }
+  },
   "hostRequirements": {
     "cpus": 2
   },
