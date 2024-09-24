@@ -1,58 +1,32 @@
-# Notebooks and Data for Scientific Computation - Spring 23
+# Notebooks and Data for Scientific Computing II - Fall 24
+Most of the materials in this class are derived from notebooks and activities developed by Ben Farr for his scientific computing class at the University of Oregon and by Stephen Taylor for his Astrostatistics class at Vanderbilt University. 
 
 This is a collection of notebooks and data, which will be added to throughout the term.
 
-## Notebooks
-
-### Week 1
+## Data Analysis Notebooks
 
 * Explore data on birth rates in the US: [Birth Data Exploration.ipynb](notebooks/Birth%20Data%20Exploration.ipynb)
 * Start our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
-/### Week 2
 * Wrap up our introduction to sampling: [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
 * Introduce Gaia data and explore the solar neighborhood: [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
-
-### Week 3
-
 * Wrap up [Intro to Sampling.ipynb](notebooks/Intro%20to%20Sampling.ipynb)
 * Recall the Boltzmann distribution, use Ising model to understand the behavior of a ferromagnet at finite temperature: [Boltzmann and Ising (and some Metropolis).ipynb](notebooks/Boltzmann%20and%20Ising%20(and%20some%20Metropolis).ipynb)
 * We made a quick-and-dirty observational HR diagram from our Gaia data set [Solar Neighborhood w Gaia.ipynb](notebooks/Solar%20Neighborhood%20w%20Gaia.ipynb)
-
-### Week 4
-
 * Introduce JAX and NumPyro for probabilistic model building and inference: [Intro to NumPyro.ipynb](notebooks/Intro%20to%20NumPyro.ipynb)
 * Employ a mixture model in NumPyro to account for outliers in linear regression: [Modeling Outliers w NumPyro.ipynb](notebooks/Modeling%20Outliers%20w%20NumPyro.ipynb).
-
-### Week 5
-
 * Build a sequentially more complex model with `NumPyro` to make inferences from CO<sub>2</sub> concentrations in Mauna Loa, Hawaii: [CO2 w NumPyro.ipynb](notebooks/CO2%20w%20NumPyro.ipynb).
 * Introduce concepts and vocabulary for machine learning: [Intro to Machine Learning (w Gaia).ipynb](notebooks/Intro%20to%20Machine%20Learning%20(w%20Gaia).ipynb)
 * Introduce logistic regression: [Logistic Regression.ipynb](notebooks/Logistic%20Regression.ipynb)
-
-### Week 6
-
 * Build and train a logistic regression classifier to identify quasars in SDSS observations: [Logistic Regression w SDSS.ipynb](notebooks/Logistic%20Regression%20w%20SDSS.ipynb)
 * Extend our use of logistic regression to handle more than two classes: [Multiclass Classification.ipynb](notebooks/Multiclass%20Classification.ipynb)
-
-### Week 7
-
 * Wrap up our multi-class classification work from Week 6
 * Introduce neural networks: [Intro to Neural Networks.ipynb](notebooks/Intro%20to%20Neural%20Networks.ipynb)
 * Introduce `Flax` and use a dense neural network layer to perform linear regression: [Intro to Flax.ipynb](notebooks/Intro%20to%20Flax.ipynb)
 * Use `Flax` to construct a dense neural network for classifying handwritten digits: [Dense Neural Network on MNIST Digits.ipynb](notebooks/Dense%20Neural%20Network%20on%20MNIST%20Digits.ipynb)
-
-### Week 8
-
 * Dense neural network classifier on M4: [Dense Neural Network Classifier for M4.ipynb](notebooks/Dense%20Neural%20Network%20Classifier%20for%20M4.ipynb)
 * Intro to CNNs: [Intro to CNNs.ipynb](notebooks/Intro%20to%20CNNs.ipynb)
-
-### Week 9
-
 * Volcanoes on Venus: [VenusVolcanoes.ipynb](notebooks/VenusVolcanoes.ipynb)
 * Intro to Signal Processing: [Signal Processing.ipynb](notebooks/Signal%20Processing.ipynb)
-
-### Week 10
-
 * Filters, Welch Method and Pulsars: [Filters, Welch method, and Pulsars.ipynb](notebooks/Filters%2C%20Welch%20method%2C%20and%20Pulsars.ipynb)
 * Notch filters, Gaussian noise, and LIGO data: [Notch filters, Gaussian noise, and LIGO data.ipynb](notebooks/Notch%20filters%2C%20Gaussian%20noise%2C%20and%20LIGO%20data.ipynb)
 * Inferring black hole properties from gravitational wave observations: [Calculating a Posterior Probability Density Function.ipynb](notebooks/Calculating%20a%20Posterior%20Probability%20Density%20Function.ipynb)
