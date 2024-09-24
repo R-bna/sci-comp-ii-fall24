@@ -6,8 +6,8 @@
 
 1. The Gamma distribution doesn't have support for negative values, making it a useful prior distribution for parameters that must be positive. Use `NumPyro` to conduct an MCMC sampling of our linear regression model with outliers from class, but replace the half-normal priors for standard deviation parameters with sensible gamma distributions (i.e., not dramatically different in scale from the half-normal distributions previously used). Does the change in prior distribution meaningfully change the posterior distributions?
 
-## 510 students
-Repeat the Gaia linear regression analysis from the 510 portion of last week's homework, this time using `NumPyro`.
+## 564 students
+Repeat the Gaia linear regression analysis from the 564 portion of last week's homework, this time using `NumPyro`.
 
 1. How do your results compare?
 1. How about the efficiency of sampling?

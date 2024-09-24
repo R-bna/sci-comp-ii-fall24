@@ -10,7 +10,7 @@ Show the quality of the fit to the data and the associated uncertainty by plotti
 
 Make one or several figures showing your estimate of the 2-D posterior distribution.  Are there correlations between the model parameters?
 
-## 510 Students
+## 564 Students
 
 Use the same technique for constraining a linear model connecting the color and brightness of nearby main sequence stars observed by Gaia (parallax > 40 mas).  To do this you will need to:
 
