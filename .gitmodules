@@ -25,3 +25,12 @@
 [submodule "student_modules/kyle.gourlie"]
 	path = student_modules/kyle.gourlie
 	url = git@github.com:GourlieK/scientific_computing_work_fal2024.git
+[submodule "student_modules/mitch.mitchell"]
+	path = student_modules/mitch.mitchell
+	url = git@github.com:mitcharoni12/scientific_computing_work_fal2024.git
+[submodule "student_modules/ian.busby"]
+	path = student_modules/ian.busby
+	url = git@github.com:ImBusby/Fall2024_Scientific_Computing_Work.git
+[submodule "student_modules/alex.tubby"]
+	path = student_modules/alex.tubby
+	url = git@github.com:AlexTubby0/scicomp_work_fall2024
