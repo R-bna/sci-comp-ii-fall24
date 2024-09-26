@@ -1,3 +1,24 @@
 [submodule "student_modules/daniel.oliver"]
 	path = student_modules/daniel.oliver
 	url = git@github.com:DanielJOliver/scientific_computing_work_fall2024.git
+[submodule "student_modules/rabina.thapa.magar"]
+	path = student_modules/rabina.thapa.magar
+	url = git@github.com:R-bna/scientific_computing_25-9.git
+[submodule "student_modules/max.novack"]
+	path = student_modules/max.novack
+	url = git@github.com:mmnovack1/scientific_computing_work_fal2024
+[submodule "student_modules/logan.winder"]
+	path = student_modules/logan.winder
+	url = git@github.com:Logan-Winder/scientific_computing_work_fal2024.git
+[submodule "student_modules/jordan.northrop"]
+	path = student_modules/jordan.northrop
+	url = git@github.com:northroj/PH564-northrop.git
+[submodule "student_modules/jeremy.baier"]
+	path = student_modules/jeremy.baier
+	url = git@github.com:jeremy-baier/baier-sci-comp-fall24
+[submodule "student_modules/genaro.lozano"]
+	path = student_modules/genaro.lozano
+	url = git@github.com:Genaro-Lozano/scientific_computing_work_fal2024/
+[submodule "student_modules/aidan.bagshaw"]
+	path = student_modules/aidan.bagshaw
+	url = git@github.com:AidanBagshaw2434/scientific_computing_work_fal2024
