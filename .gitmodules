@@ -22,3 +22,6 @@
 [submodule "student_modules/aidan.bagshaw"]
 	path = student_modules/aidan.bagshaw
 	url = git@github.com:AidanBagshaw2434/scientific_computing_work_fal2024
+[submodule "student_modules/kyle.gourlie"]
+	path = student_modules/kyle.gourlie
+	url = git@github.com:GourlieK/scientific_computing_work_fal2024.git
