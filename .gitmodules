@@ -34,3 +34,9 @@
 [submodule "student_modules/alex.tubby"]
 	path = student_modules/alex.tubby
 	url = git@github.com:AlexTubby0/scicomp_work_fall2024
+[submodule "student_modules/aubry.lines"]
+	path = student_modules/aubry.lines
+	url = git@github.com:AubryLines/scientific_computing_work_fal2024
+[submodule "student_modules/amanda.leopard"]
+	path = student_modules/amanda.leopard
+	url = git@github.com:Leoparam/SciCompWorkF24.git
