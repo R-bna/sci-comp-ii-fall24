@@ -40,3 +40,6 @@
 [submodule "student_modules/amanda.leopard"]
 	path = student_modules/amanda.leopard
 	url = git@github.com:Leoparam/SciCompWorkF24.git
+[submodule "student_modules/kalista.wayt"]
+	path = student_modules/kalista.wayt
+	url = git@github.com:KalistaW/work_ph546_fall2024.git
