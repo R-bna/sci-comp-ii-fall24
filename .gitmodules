@@ -43,3 +43,6 @@
 [submodule "student_modules/kalista.wayt"]
 	path = student_modules/kalista.wayt
 	url = git@github.com:KalistaW/work_ph546_fall2024.git
+[submodule "student_modules/saeed.alshamsi"]
+	path = student_modules/saeed.alshamsi
+	url = git@github.com:Git-Shamsi/scientific_computing_work_fal2024
