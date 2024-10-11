@@ -1,4 +1,4 @@
-# Week 2 HW
+# HW 3
 
 The purpose of this assignment is to get exercise some basic sampling skills, focusing on rejection and importance sampling.
 
