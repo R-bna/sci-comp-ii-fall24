@@ -75,6 +75,7 @@ scipy
 seaborn
 six
 stack-data
+tensorflow
 tensorstore
 threadpoolctl
 toolz
