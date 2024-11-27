@@ -76,6 +76,7 @@ seaborn
 six
 stack-data
 tensorflow
+tensorflow_datasets
 tensorstore
 threadpoolctl
 toolz
