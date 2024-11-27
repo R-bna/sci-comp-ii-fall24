@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "image": "mcr.microsoft.com/devcontainers/python:dev-3.10-bullseye",
   "name": "OSU SciCompII Fall2024",
@@ -27,3 +28,36 @@
     }
   }
 }
+=======
+{
+  "image": "mcr.microsoft.com/devcontainers/python:dev-3.10-bullseye",
+  "name": "OSU SciCompII Fall2024",
+  "settings": {
+        "python.pythonPath": "/usr/local/bin/python",
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+  "features": {
+    "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+        "packages": "libhdf5-dev"
+    },
+    "ghcr.io/devcontainers/features/git-lfs:1": {}
+  },
+  "hostRequirements": {
+    "cpus": 2
+  },
+  "waitFor": "onCreateCommand",
+  "updateContentCommand": "python3 -m pip install -r requirements.txt",
+  "postCreateCommand": "",
+  "customizations": {
+    "codespaces": {
+      "openFiles": []
+    },
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  }
+}
+>>>>>>> bf75558f2726c261a0fbb841797f37c1664cf281
