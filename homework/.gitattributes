@@ -1,0 +1,7 @@
+../data/gaiadr3_solar_neighborhood.csv filter=lfs diff=lfs merge=lfs -text
+../data/SDSS_stars.csv filter=lfs diff=lfs merge=lfs -text
+../data/SDSS_wd.csv filter=lfs diff=lfs merge=lfs -text
+../data/US_births_2000-2014_SSA.csv filter=lfs diff=lfs merge=lfs -text
+../data/m4_gaia_source.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+hw_birth-and-movie/*.csv filter=lfs diff=lfs merge=lfs -text

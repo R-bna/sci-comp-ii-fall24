@@ -124,4 +124,5 @@ CONTAINS(
 	POINT('ICRS',gaiadr3.gaia_source.ra,gaiadr3.gaia_source.dec),
 	BOX('ICRS',246,-26.5,3,3)
 )=1
+>>>>>>> 148122f6c419016fcd6b0dfc1fdb0f605778246f
 ```

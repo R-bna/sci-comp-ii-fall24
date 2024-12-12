@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 **/.DS_Store
 cache/
+=======
+notebooks/data
+notebooks/cifar_net.pth
+.ipynb_checkpoints/
+**/.DS_Store
+cache/
+*.mp3
+>>>>>>> 148122f6c419016fcd6b0dfc1fdb0f605778246f

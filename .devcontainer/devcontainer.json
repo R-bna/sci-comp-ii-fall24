@@ -7,7 +7,11 @@
     },
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+<<<<<<< HEAD
         "packages": "libhdf5-dev"
+=======
+        "packages": "libhdf5-dev,ffmpeg"
+>>>>>>> 148122f6c419016fcd6b0dfc1fdb0f605778246f
     },
     "ghcr.io/devcontainers/features/git-lfs:1": {}
   },
@@ -29,4 +33,7 @@
     }
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 148122f6c419016fcd6b0dfc1fdb0f605778246f

@@ -58,4 +58,3 @@ dependencies:
   - wheel
   - xz
   - zlib
-prefix: /Users/hazbounj/opt/anaconda3/envs/scicomp
